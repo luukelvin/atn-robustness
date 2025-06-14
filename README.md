@@ -6,7 +6,9 @@ Code and data used for the Math 168 final project entitled "What Happens When Ai
 
 The Kaggle dataset [1] that we used for this project is present in this repository under `kaggle_data`.
 
-The `preliminary.ipynb` Python notebook explores the dataset and computes the centrality measures of the network representation we obtain from the data. It also does some preliminary examination and visualization of the network as nodes are removed according to closeness and betweenness centrality. The requirements to run this notebook are listed in `requirements_preliminary.txt`.
+The `1_preliminary.ipynb` Python notebook explores the dataset and computes the centrality measures of the network representation we obtain from the data. It also does some preliminary examination and visualization of the network as nodes are removed according to closeness and betweenness centrality. The requirements to run this notebook are listed in `requirements_1_4.txt`.
+
+The `4_airline_structures.ipynb` Python notebook contains the analysis and visualizations of various US airlines' operational structures. The requirements listed in `requirements_1_4.txt` should suffice to run the notebook.
 
 ## Sources
 [1] T Woebkenberg, Global air transportation network (2023) <https://www.kaggle.com/datasets/thedevastator/global-air-transportation-network-mapping-the-wo>.

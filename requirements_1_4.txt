@@ -1,0 +1,6 @@
+jupyter
+pandas
+networkx
+matplotlib
+ipympl
+basemap
