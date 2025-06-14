@@ -4,3 +4,5 @@ networkx
 matplotlib
 ipympl
 basemap
+cartopy
+seaborn
